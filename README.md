@@ -1,2 +1,2 @@
 # best-repo-ever
-This is for the GIT trailhead - new branch 1
+This is for the GIT trailhead - new branch 2
